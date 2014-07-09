@@ -1,0 +1,56 @@
+[
+{
+"menu":"Painel",
+"icone":"glyphicon glyphicon-home",
+"descricao":"",
+"link":""
+},
+{
+"menu":"Menus",
+"icone":"glyphicon glyphicon-list",
+"descricao":"...",
+"link":"grid-menu"
+},
+{
+"menu":"Banner",
+"icone":"glyphicon glyphicon-picture",
+"descricao":"...",
+"link":"grid-banner"
+},
+{
+"menu":"Noticias",
+"icone":"glyphicon glyphicon-list-alt",
+"descricao":"...",
+"link":"grid-noticia"
+},
+{
+"menu":"Produtos",
+"icone":"glyphicon glyphicon-tags",
+"descricao":"...",
+"link":"grid-produto"
+},
+{
+"menu":"Conteúdo",
+"icone":"glyphicon glyphicon-list-alt",
+"descricao":"...",
+"link":"#grid-conteudo"
+},
+{
+"menu":"Galeria de Fotos",
+"icone":"glyphicon glyphicon-facetime-video",
+"descricao":"...",
+"link":"grid-galeria"
+},
+{
+"menu":"Localização",
+"icone":"glyphicon glyphicon-screenshot",
+"descricao":"...",
+"link":"grid-localizacao"
+},
+{
+"menu":"Usuários",
+"icone":"glyphicon glyphicon-user",
+"descricao":"...",
+"link":"grid-usuario"
+}
+]

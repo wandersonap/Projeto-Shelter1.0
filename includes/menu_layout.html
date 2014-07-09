@@ -1,0 +1,9 @@
+ <a class="list-group-item" ng-repeat="item in menus.itens" ng-href="{{item.link}}">
+	<h4 class="list-group-item-heading">
+		<span class="{{ item.icone }}"></span>
+		{{ item.menu }}
+	</h4>
+	<div class="visible-xs">
+		<p class="list-group-item-text">{{ item.descricao }}</p>
+	</div>
+</a>
